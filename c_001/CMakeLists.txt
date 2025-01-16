@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.31)
+project(c_001)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(c_001 "第4章 C++基础容器/src/demo4-4.cpp" "第4章 C++基础容器/src/demo4-5.cpp" "第4章 C++基础容器/src/demo4-4-01.cpp" "第4章 C++基础容器/src/demo4-4-02.cpp" "第4章 C++基础容器/src/demo4-6.cpp" "第5章 彻底学会 C++ 指针，引用/src/demo5-1.cpp" "第5章 彻底学会 C++ 指针，引用/src/demo5-2.cpp" "第5章 彻底学会 C++ 指针，引用/src/demo5-2-02.cpp" "第5章 彻底学会 C++ 指针，引用/src/demo5-3.cpp" "第5章 彻底学会 C++ 指针，引用/src/demo5-4.cpp" "第5章 彻底学会 C++ 指针，引用/src/demo5-5.cpp" "第5章 彻底学会 C++ 指针，引用/src/demo5-6.cpp")
+
+add_executable(demo4-4 "第4章 C++基础容器/src/demo4-4.cpp")
+add_executable(demo4-5 "第4章 C++基础容器/src/demo4-5.cpp")
+add_executable(demo4-4-01 "第4章 C++基础容器/src/demo4-4-01.cpp")
+add_executable(demo4-4-02 "第4章 C++基础容器/src/demo4-4-02.cpp")
+add_executable(demo4-6 "第4章 C++基础容器/src/demo4-6.cpp")
+add_executable(demo5-1 "第5章 彻底学会 C++ 指针，引用/src/demo5-1.cpp")
+add_executable(demo5-2 "第5章 彻底学会 C++ 指针，引用/src/demo5-2.cpp")
+add_executable(demo5-2-02 "第5章 彻底学会 C++ 指针，引用/src/demo5-2-02.cpp")
+add_executable(demo5-3 "第5章 彻底学会 C++ 指针，引用/src/demo5-3.cpp")
+add_executable(demo5-4 "第5章 彻底学会 C++ 指针，引用/src/demo5-4.cpp")
