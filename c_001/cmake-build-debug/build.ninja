@@ -121,6 +121,42 @@ build CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-6.
   OBJECT_DIR = CMakeFiles/c_001.dir
   OBJECT_FILE_DIR = CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src
 
+build CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-7.cpp.o: CXX_COMPILER__c_001_unscanned_Debug /Users/qqkk/work/study/c_study/c_001/第5章$ 彻底学会$ C++$ 指针，引用/src/demo5-7.cpp || cmake_object_order_depends_target_c_001
+  DEP_FILE = CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-7.cpp.o.d
+  FLAGS = -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c_001.dir
+  OBJECT_FILE_DIR = CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src
+
+build CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-8.cpp.o: CXX_COMPILER__c_001_unscanned_Debug /Users/qqkk/work/study/c_study/c_001/第5章$ 彻底学会$ C++$ 指针，引用/src/demo5-8.cpp || cmake_object_order_depends_target_c_001
+  DEP_FILE = CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-8.cpp.o.d
+  FLAGS = -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c_001.dir
+  OBJECT_FILE_DIR = CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src
+
+build CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-9.cpp.o: CXX_COMPILER__c_001_unscanned_Debug /Users/qqkk/work/study/c_study/c_001/第5章$ 彻底学会$ C++$ 指针，引用/src/demo5-9.cpp || cmake_object_order_depends_target_c_001
+  DEP_FILE = CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-9.cpp.o.d
+  FLAGS = -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c_001.dir
+  OBJECT_FILE_DIR = CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src
+
+build CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-10.cpp.o: CXX_COMPILER__c_001_unscanned_Debug /Users/qqkk/work/study/c_study/c_001/第5章$ 彻底学会$ C++$ 指针，引用/src/demo5-10.cpp || cmake_object_order_depends_target_c_001
+  DEP_FILE = CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-10.cpp.o.d
+  FLAGS = -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c_001.dir
+  OBJECT_FILE_DIR = CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src
+
+build CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-11.cpp.o: CXX_COMPILER__c_001_unscanned_Debug /Users/qqkk/work/study/c_study/c_001/第5章$ 彻底学会$ C++$ 指针，引用/src/demo5-11.cpp || cmake_object_order_depends_target_c_001
+  DEP_FILE = CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-11.cpp.o.d
+  FLAGS = -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c_001.dir
+  OBJECT_FILE_DIR = CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src
+
+build CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-12.cpp.o: CXX_COMPILER__c_001_unscanned_Debug /Users/qqkk/work/study/c_study/c_001/第5章$ 彻底学会$ C++$ 指针，引用/src/demo5-12.cpp || cmake_object_order_depends_target_c_001
+  DEP_FILE = CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-12.cpp.o.d
+  FLAGS = -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/c_001.dir
+  OBJECT_FILE_DIR = CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target c_001
@@ -129,7 +165,7 @@ build CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-6.
 #############################################
 # Link the executable c_001
 
-build c_001: CXX_EXECUTABLE_LINKER__c_001_Debug CMakeFiles/c_001.dir/第4章_C++基础容器/src/demo4-4.cpp.o CMakeFiles/c_001.dir/第4章_C++基础容器/src/demo4-5.cpp.o CMakeFiles/c_001.dir/第4章_C++基础容器/src/demo4-4-01.cpp.o CMakeFiles/c_001.dir/第4章_C++基础容器/src/demo4-4-02.cpp.o CMakeFiles/c_001.dir/第4章_C++基础容器/src/demo4-6.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-1.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-2.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-2-02.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-3.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-4.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-5.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-6.cpp.o
+build c_001: CXX_EXECUTABLE_LINKER__c_001_Debug CMakeFiles/c_001.dir/第4章_C++基础容器/src/demo4-4.cpp.o CMakeFiles/c_001.dir/第4章_C++基础容器/src/demo4-5.cpp.o CMakeFiles/c_001.dir/第4章_C++基础容器/src/demo4-4-01.cpp.o CMakeFiles/c_001.dir/第4章_C++基础容器/src/demo4-4-02.cpp.o CMakeFiles/c_001.dir/第4章_C++基础容器/src/demo4-6.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-1.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-2.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-2-02.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-3.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-4.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-5.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-6.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-7.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-8.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-9.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-10.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-11.cpp.o CMakeFiles/c_001.dir/第5章_彻底学会_C++_指针，引用/src/demo5-12.cpp.o
   FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7
   OBJECT_DIR = CMakeFiles/c_001.dir
   POST_BUILD = :
@@ -447,6 +483,37 @@ build demo5-4: CXX_EXECUTABLE_LINKER__demo5-4_Debug CMakeFiles/demo5-4.dir/第5�
   TARGET_FILE = demo5-4
   TARGET_PDB = demo5-4.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target demo5-8
+
+
+#############################################
+# Order-only phony target for demo5-8
+
+build cmake_object_order_depends_target_demo5-8: phony || .
+
+build CMakeFiles/demo5-8.dir/第5章_彻底学会_C++_指针，引用/src/demo5-8.cpp.o: CXX_COMPILER__demo5-8_unscanned_Debug /Users/qqkk/work/study/c_study/c_001/第5章$ 彻底学会$ C++$ 指针，引用/src/demo5-8.cpp || cmake_object_order_depends_target_demo5-8
+  DEP_FILE = CMakeFiles/demo5-8.dir/第5章_彻底学会_C++_指针，引用/src/demo5-8.cpp.o.d
+  FLAGS = -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/demo5-8.dir
+  OBJECT_FILE_DIR = CMakeFiles/demo5-8.dir/第5章_彻底学会_C++_指针，引用/src
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target demo5-8
+
+
+#############################################
+# Link the executable demo5-8
+
+build demo5-8: CXX_EXECUTABLE_LINKER__demo5-8_Debug CMakeFiles/demo5-8.dir/第5章_彻底学会_C++_指针，引用/src/demo5-8.cpp.o
+  FLAGS = -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7
+  OBJECT_DIR = CMakeFiles/demo5-8.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = demo5-8
+  TARGET_PDB = demo5-8.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -489,7 +556,7 @@ build codegen: phony
 #############################################
 # Folder: /Users/qqkk/work/study/c_study/c_001/cmake-build-debug
 
-build all: phony c_001 demo4-4 demo4-5 demo4-4-01 demo4-4-02 demo4-6 demo5-1 demo5-2 demo5-2-02 demo5-3 demo5-4
+build all: phony c_001 demo4-4 demo4-5 demo4-4-01 demo4-4-02 demo4-6 demo5-1 demo5-2 demo5-2-02 demo5-3 demo5-4 demo5-8
 
 # =============================================================================
 # Built-in targets
