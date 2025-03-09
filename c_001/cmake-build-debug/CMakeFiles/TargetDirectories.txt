@@ -10,5 +10,7 @@
 /Users/qqkk/work/study/c_study/c_001/cmake-build-debug/CMakeFiles/demo5-3.dir
 /Users/qqkk/work/study/c_study/c_001/cmake-build-debug/CMakeFiles/demo5-4.dir
 /Users/qqkk/work/study/c_study/c_001/cmake-build-debug/CMakeFiles/demo5-8.dir
+/Users/qqkk/work/study/c_study/c_001/cmake-build-debug/CMakeFiles/demo5-12.dir
+/Users/qqkk/work/study/c_study/c_001/cmake-build-debug/CMakeFiles/demo6-3.dir
 /Users/qqkk/work/study/c_study/c_001/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/qqkk/work/study/c_study/c_001/cmake-build-debug/CMakeFiles/rebuild_cache.dir
