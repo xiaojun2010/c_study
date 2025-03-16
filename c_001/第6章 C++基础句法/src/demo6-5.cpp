@@ -24,7 +24,7 @@ int main()
         }// for 2
     }// for1
 
-    int high, low; 
+    int high, low;
     // aabb的完全平方数
     for (size_t index = 31; ; index++)
     {

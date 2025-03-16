@@ -1,7 +1,24 @@
 // demo6-6.cpp : 定义控制台应用程序的入口点。
 //
 
-#include "stdafx.h"
+ namespace quickzhao
+ {
+    int test(int  a){
+        return a+1;
+    }
+ }
+
+ int test(int a){
+     return a;
+}
+
+int test(double a){
+    return int (a);
+}
+
+int test(int a,double d){
+    return a;
+}
 
 //?test@@YAHH@Z
 //?test@@YAHN@Z
